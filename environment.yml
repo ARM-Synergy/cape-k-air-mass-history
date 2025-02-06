@@ -5,3 +5,6 @@ dependencies:
   - jupyter-book
   - jupyterlab
   - sphinx-pythia-theme
+  - act-atmos
+  - xarray
+  - pandas
