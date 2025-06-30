@@ -26,7 +26,6 @@ authors:
     given-names: Tiantian
     orcid: https://orcid.org/0009-0003-6585-2212
     affiliation: University of Michigan
-  - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
-    website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
+website: https://github.com/ARM-Synergy/cape-k-air-mass-history
 title: "CAPE-k Air Mass Trajectory Study"
 abstract: "We looked into two high wind speed events during the Cloud and Precipitation Experiment at Kennaook (CAPE-k) campaign. Aerosol concentration, size distribution, and composition are analyzed in relation with meteorological data."
